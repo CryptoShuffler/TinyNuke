@@ -1,3 +1,7 @@
+###For study purpose Only
+--- ## Old Scholl stuff ---
+## This stuff it´s Deprecated !!! 
+
 # NOTE
 This repo is a fork of [one](https://github.com/aainz/TinyNuke) which
 has since been deleted by its author. I didn't write the code, but
